@@ -1,4 +1,4 @@
 $(document).ready(function() {
-    $('#nav').load('../asset/basic/nav.html');
-    $('#footer').load('../asset/basic/footer.html');
+    $('#nav').load('./basic/nav.html');
+    $('#footer').load('./basic/footer.html');
 });
